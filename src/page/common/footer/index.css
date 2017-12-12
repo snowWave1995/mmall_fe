@@ -1,0 +1,23 @@
+/*
+* @Author: lenovo
+* @Date:   2017-12-12 19:59:56
+* @Last Modified by:   lenovo
+* @Last Modified time: 2017-12-12 20:04:46
+*/
+.footer{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.footer .links{
+    text-align: center;
+    color: #666;
+    line-height: 30px;
+}
+.footer .links .link{
+    padding: 0 10px;
+}
+.footer .copyright{
+    text-align: center;
+    color: #666;
+    line-height: 30px;
+}
